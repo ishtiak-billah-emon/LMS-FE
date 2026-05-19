@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/geist";
+
+@custom-variant dark (&:is(.dark *));
+
+@plugin "daisyui";
+
+/* =========================
+   THEME VARIABLES
+========================= */
+
+@theme {
+  --color-primary: #6366F1;
+  --color-primary-hover: #4F46E5;
+
+  --color-secondary: #06B6D4;
+
+  --color-accent: #F59E0B;
+
+  --color-background: #F8FAFC;
+
+  --color-card: #FFFFFF;
+
+  --color-muted: #EEF2FF;
+
+  --color-text-primary: #0F172A;
+
+  --color-text-secondary: #475569;
+
+  --color-border: #E2E8F0;
+
+  --radius-primary: 16px;
+}
+
+/* =========================
+   GLOBAL STYLES
+========================= */
+
+body {
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
+}
