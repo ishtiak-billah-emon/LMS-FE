@@ -1,0 +1,329 @@
+[
+  {
+    "_id": "course_1",
+    "title": "SSC General Math Complete Course",
+    "slug": "ssc-general-math-complete-course",
+    "description": "Complete SSC General Math preparation course with chapter-wise problem solving and CQ practice.",
+    "thumbnail": "https://i.ibb.co.com/S01x4zM/digital-Marketing.jpg",
+    "category": "Math",
+    "classType": "SSC",
+    "price": 2500,
+    "discountPrice": 999,
+    "rating": 4.8,
+    "totalStudents": 320,
+    "teachers": ["teacher_1"],
+    "sections": [
+      {
+        "_id": "section_1_1",
+        "title": "Orientation",
+        "order": 1,
+        "lessons": [
+          {
+            "_id": "lesson_1_1_1",
+            "title": "Course Introduction",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "12:30",
+            "preview": true,
+            "order": 1
+          },
+          {
+            "_id": "lesson_1_1_2",
+            "title": "How To Study Math Efficiently",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "15:10",
+            "preview": true,
+            "order": 2
+          },
+          {
+            "_id": "lesson_1_1_3",
+            "title": "Course Resources Overview",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "10:20",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      },
+      {
+        "_id": "section_1_2",
+        "title": "Chapter 1 - Algebra",
+        "order": 2,
+        "lessons": [
+          {
+            "_id": "lesson_1_2_1",
+            "title": "Basic Algebra Concepts",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "32:15",
+            "preview": false,
+            "order": 1
+          },
+          {
+            "_id": "lesson_1_2_2",
+            "title": "Algebra Problem Solving",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "28:40",
+            "preview": false,
+            "order": 2
+          },
+          {
+            "_id": "lesson_1_2_3",
+            "title": "CQ Solve Practice",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "40:00",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      },
+      {
+        "_id": "section_1_3",
+        "title": "Chapter 2 - Geometry",
+        "order": 3,
+        "lessons": [
+          {
+            "_id": "lesson_1_3_1",
+            "title": "Geometry Basics",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "25:30",
+            "preview": false,
+            "order": 1
+          },
+          {
+            "_id": "lesson_1_3_2",
+            "title": "Triangle and Circle",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "30:00",
+            "preview": false,
+            "order": 2
+          },
+          {
+            "_id": "lesson_1_3_3",
+            "title": "Geometry CQ Solve",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "35:45",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "course_2",
+    "title": "HSC Higher Math Crash Course",
+    "slug": "hsc-higher-math-crash-course",
+    "description": "Advanced HSC Higher Math course with shortcut techniques and board question solving.",
+    "thumbnail": "https://i.ibb.co.com/S01x4zM/digital-Marketing.jpg",
+    "category": "Higher Math",
+    "classType": "HSC",
+    "price": 3500,
+    "discountPrice": 1499,
+    "rating": 4.9,
+    "totalStudents": 540,
+    "teachers": ["teacher_1", "teacher_2"],
+    "sections": [
+      {
+        "_id": "section_2_1",
+        "title": "Introduction",
+        "order": 1,
+        "lessons": [
+          {
+            "_id": "lesson_2_1_1",
+            "title": "Course Roadmap",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "18:10",
+            "preview": true,
+            "order": 1
+          },
+          {
+            "_id": "lesson_2_1_2",
+            "title": "Study Materials",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "20:30",
+            "preview": true,
+            "order": 2
+          },
+          {
+            "_id": "lesson_2_1_3",
+            "title": "Exam Strategy",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "16:40",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      },
+      {
+        "_id": "section_2_2",
+        "title": "Differentiation",
+        "order": 2,
+        "lessons": [
+          {
+            "_id": "lesson_2_2_1",
+            "title": "Limits and Functions",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "45:20",
+            "preview": false,
+            "order": 1
+          },
+          {
+            "_id": "lesson_2_2_2",
+            "title": "Derivative Rules",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "38:50",
+            "preview": false,
+            "order": 2
+          },
+          {
+            "_id": "lesson_2_2_3",
+            "title": "Problem Solving Session",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "50:00",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      },
+      {
+        "_id": "section_2_3",
+        "title": "Integration",
+        "order": 3,
+        "lessons": [
+          {
+            "_id": "lesson_2_3_1",
+            "title": "Basic Integration",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "42:25",
+            "preview": false,
+            "order": 1
+          },
+          {
+            "_id": "lesson_2_3_2",
+            "title": "Integration Techniques",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "47:15",
+            "preview": false,
+            "order": 2
+          },
+          {
+            "_id": "lesson_2_3_3",
+            "title": "Board Question Solve",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "55:10",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "course_3",
+    "title": "Admission Math Masterclass",
+    "slug": "admission-math-masterclass",
+    "description": "University admission math preparation course with shortcut methods and model tests.",
+    "thumbnail": "https://i.ibb.co.com/S01x4zM/digital-Marketing.jpg",
+    "category": "Admission",
+    "classType": "Admission",
+    "price": 5000,
+    "discountPrice": 2499,
+    "rating": 5.0,
+    "totalStudents": 890,
+    "teachers": ["teacher_2"],
+    "sections": [
+      {
+        "_id": "section_3_1",
+        "title": "Admission Preparation Guide",
+        "order": 1,
+        "lessons": [
+          {
+            "_id": "lesson_3_1_1",
+            "title": "Admission Overview",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "22:15",
+            "preview": true,
+            "order": 1
+          },
+          {
+            "_id": "lesson_3_1_2",
+            "title": "Time Management",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "18:50",
+            "preview": true,
+            "order": 2
+          },
+          {
+            "_id": "lesson_3_1_3",
+            "title": "Question Pattern Analysis",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "30:00",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      },
+      {
+        "_id": "section_3_2",
+        "title": "Advanced Algebra",
+        "order": 2,
+        "lessons": [
+          {
+            "_id": "lesson_3_2_1",
+            "title": "Shortcut Algebra Techniques",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "40:30",
+            "preview": false,
+            "order": 1
+          },
+          {
+            "_id": "lesson_3_2_2",
+            "title": "MCQ Solve Practice",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "45:10",
+            "preview": false,
+            "order": 2
+          },
+          {
+            "_id": "lesson_3_2_3",
+            "title": "Previous Year Questions",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "52:40",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      },
+      {
+        "_id": "section_3_3",
+        "title": "Model Test",
+        "order": 3,
+        "lessons": [
+          {
+            "_id": "lesson_3_3_1",
+            "title": "Model Test 1 Solve",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "60:00",
+            "preview": false,
+            "order": 1
+          },
+          {
+            "_id": "lesson_3_3_2",
+            "title": "Model Test 2 Solve",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "58:30",
+            "preview": false,
+            "order": 2
+          },
+          {
+            "_id": "lesson_3_3_3",
+            "title": "Final Suggestions",
+            "videoUrl": "https://www.youtube.com/embed/wec5QK-hQt0?si=CEXA8YI2xwjNBC7w",
+            "duration": "35:25",
+            "preview": false,
+            "order": 3
+          }
+        ]
+      }
+    ]
+  }
+]
