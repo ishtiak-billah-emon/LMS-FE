@@ -1,5 +1,7 @@
 // import heroImage from "../assets/heroo.jpg";
 
+import { Link } from "lucide-react";
+
 export default function Hero() {
   return (
     <section className="relative overflow-hidden bg-muted">
@@ -53,13 +55,13 @@ export default function Hero() {
           </p>
 
           <div className="flex flex-wrap gap-4">
-            <button className="rounded-full bg-primary px-8 py-4 font-semibold text-white transition hover:bg-primary-hover">
+            <Link to='/courses' className="rounded-full bg-primary px-8 py-4 font-semibold text-white transition hover:bg-primary-hover">
               Explore Courses
-            </button>
+            </Link >
 
-            <button className="rounded-full border border-border bg-white px-8 py-4 font-semibold text-text-primary transition hover:border-primary">
+            <Link to='/about-us' className="rounded-full border border-border bg-white px-8 py-4 font-semibold text-text-primary transition hover:border-primary">
               Learn More
-            </button>
+            </Link>
           </div>
         </div>
         
